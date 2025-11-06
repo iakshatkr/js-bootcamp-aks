@@ -17,3 +17,11 @@ console.log(hobbies);
 console.log(isLoggedIn);
 
 hobbies.push("travel")
+
+const userInfo = [
+    { userName: "akshat", age: 21 },
+    { userName: "rahul", age: 22 },
+    { userName: "rohit", age: 25 }
+];
+
+console.log(userInfo);
