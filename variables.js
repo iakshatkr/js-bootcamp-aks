@@ -25,3 +25,5 @@ const userInfo = [
 ];
 
 console.log(userInfo);
+
+console.log(userInfo[1].userName);
