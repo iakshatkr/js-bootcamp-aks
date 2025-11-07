@@ -1,4 +1,4 @@
-const userName = "akshat";
+/*const userName = "akshat";
 let age = 21;
 let isLoggedIn = true;
 isStudent = true;
@@ -28,4 +28,21 @@ console.log(userInfo);
 
 console.log(userInfo[1].userName);
 console.log("akshat");
-console.log("")
+// --- IGNORE ---
+// I am       // i=Ii  I ams= c=)
+
+for (let i =0; i<10; i++){
+    console.log(i);
+}
+    */
+
+const nums = [1, 2, 3, 4, 5]; // First, declare and initialize the array
+
+// Now we can access array elements
+console.log(nums[0]); // First element
+console.log(nums[1]); // Second element
+
+// Loop through all elements
+for(let i=0; i<nums.length; i++){
+    console.log(nums[i]);
+}
